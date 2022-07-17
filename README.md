@@ -2,13 +2,14 @@
 Learning to Estimate and Refine Fluid Motion with Physical Dynamics (ICML 2022)
 [[paper]](https://arxiv.org/pdf/2206.10480.pdf)
 
-
+```BibTeX
 @InProceedings{zhang22learning,
   title = 	 {Learning to Estimate and Refine Fluid Motion with Physical Dynamics},
   author =       {Zhang, Mingrui and Wang, Jianhong and Tlhomole, James B and Piggott, Matthew},
   booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
   year = 	 {2022}
 }
+```
 
 
 ## Installation
