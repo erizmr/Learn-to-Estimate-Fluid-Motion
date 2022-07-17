@@ -1,6 +1,6 @@
 # Learn-to-Estimate-Fluid-Motion
 Learning to Estimate and Refine Fluid Motion with Physical Dynamics (ICML 2022)
-[[paper]](https://arxiv.org/pdf/2206.10480.pdf)
+[[paper]](https://proceedings.mlr.press/v162/zhang22ad/zhang22ad.pdf)
 
 ```BibTeX
 @InProceedings{zhang22learning,
